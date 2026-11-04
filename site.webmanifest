@@ -1,0 +1,13 @@
+{
+  "name": "City Live",
+  "short_name": "City Live",
+  "description": "Eventi, notizie e servizi della tua città in un'app gratuita.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F5F2EC",
+  "theme_color": "#F5F2EC",
+  "icons": [
+    { "src": "/assets/icona-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icona-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

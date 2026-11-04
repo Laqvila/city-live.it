@@ -1,0 +1,17 @@
+# City Live
+
+> App gratuita e senza pubblicità con gli eventi, le notizie e i servizi della città, per iPhone e Android, in 9 lingue (italiano, inglese, francese, spagnolo, tedesco, cinese, arabo, giapponese, coreano). In preparazione, non ancora sugli store. Le prime città sono L'Aquila e Lanciano, con i loro dintorni. Nasce dall'esperienza di L'AquiLive, l'app di L'Aquila con oltre 1.600 download. Un progetto di Mirko Rocci.
+
+## Cosa conterrà l'app
+- Eventi (concerti, teatro, mostre, sagre, conferenze) con quelli in corso segnati come live
+- Mappa aperta sul centro storico di ogni città, notizie locali con rimando all'articolo originale
+- Servizi utili (farmacie di turno, raccolta differenziata), trasporti, cultura e luoghi
+- Sconti delle attività, attività tra persone con chat riservata (18+), promemoria, segnalazione degli eventi
+
+## Link
+- [Pagina dell'app](https://city-live.it/)
+- [L'AquiLive, l'app di L'Aquila](https://laquilive.it/)
+- [Autore, Mirko Rocci](https://mirkorocci.it/)
+
+## Contatti
+mirko.rocci@gmail.com
